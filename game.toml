@@ -22,7 +22,7 @@ bin_name = "Persona 2 - Eternal Punishment (USA).bin"
 cue_name = "Persona 2 - Eternal Punishment (USA).cue"
 boot_exe = "SLUS_011.58"
 discs = [
-  "G:/ps1 ports/games to recomp/persona 2/Persona 2 - Eternal Punishment (USA).cue",
+  "Persona 2 - Eternal Punishment (USA).cue",
 ]
 known_sizes = [724827600]
 known_md5 = [
